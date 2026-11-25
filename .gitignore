@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.mp4
+*.avi
+*.mov
+*.pt
+output/
+outputs/
+.ipynb_checkpoints/
